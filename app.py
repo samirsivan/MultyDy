@@ -33,7 +33,7 @@ def go_to_prediction():
 
 # Home Page
 if st.session_state.page == 'home':
-    add_background(r"images\medical-stethoscope-isolated-with-black-background-medical-concept-stethoscope-black-background-with-space-text-health-concept-medical-conceptual_1391-769.jpg")
+    # add_background(r"images\medical-stethoscope-isolated-with-black-background-medical-concept-stethoscope-black-background-with-space-text-health-concept-medical-conceptual_1391-769.jpg")
     st.markdown(
         """
         <div style='text-align: center;'>
